@@ -1,0 +1,10 @@
+export const LOGIN_FORM_TITLE = 'Sign in';
+export const LOGIN_FORM_ERROR_TITLE = 'Email or password you entered is invalid.';
+export const LOGIN_FORM_ENTER_EMAIL = 'Enter your email and password.';
+export const LOGIN_FORM_EMAIL_ERROR = 'Please enter a valid email';
+export const LOGIN_FORM_EMAIL = 'Email';
+export const LOGIN_FORM_PASSWORD = 'Password';
+export const LOGIN_FORM_PASSWORD_ERROR = 'Please enter a password';
+export const LOGIN_FORM_FORGOT_PASSWORD = 'I forgot my password';
+export const LOGIN_FORM_BUTTON = 'Next';
+export const SERVER_ERROR = 'There was a connection problem. Please try again.';
